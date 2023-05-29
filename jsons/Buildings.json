@@ -60,7 +60,7 @@
         "cost": -1,
         "replacementTextForUniques": " ",
         "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Obsolete with [Theology]","Unlocked with [Classical era]","Will not be displayed in Civilopedia"]
+            "Unlocked with [Classical era]","Will not be displayed in Civilopedia"]
     },
     {
         "name": "Free Medieval Policy",
@@ -68,7 +68,7 @@
         "cost": -1,
         "replacementTextForUniques": " ",
         "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Obsolete with [Astronomy]","Unlocked with [Medieval era]","Will not be displayed in Civilopedia"]
+            "Unlocked with [Medieval era]","Will not be displayed in Civilopedia"]
     },
     {
         "name": "Free Renaissance Policy",
@@ -76,7 +76,7 @@
         "cost": -1,
         "replacementTextForUniques": " ",
         "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Obsolete with [Archaeology]","Unlocked with [Renaissance era]","Will not be displayed in Civilopedia"]
+            "Unlocked with [Renaissance era]","Will not be displayed in Civilopedia"]
     },
     {
         "name": "Free Industrial Policy",
@@ -84,7 +84,7 @@
         "cost": -1,
         "replacementTextForUniques": " ",
         "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Obsolete with [Refrigeration]","Unlocked with [Industrial era]","Will not be displayed in Civilopedia"]
+            "Unlocked with [Industrial era]","Will not be displayed in Civilopedia"]
     },
     {
         "name": "Free Modern Policy",
@@ -92,7 +92,7 @@
         "cost": -1,
         "replacementTextForUniques": " ",
         "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Obsolete with [Pharmaceuticals]","Unlocked with [Modern era]","Will not be displayed in Civilopedia"]
+            "Unlocked with [Modern era]","Will not be displayed in Civilopedia"]
     },
     {
         "name": "Free Atomic Policy",
@@ -100,7 +100,7 @@
         "cost": -1,
         "replacementTextForUniques": " ",
         "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Obsolete with [Telecommunications]","Unlocked with [Atomic era]","Will not be displayed in Civilopedia"]
+            "Unlocked with [Atomic era]","Will not be displayed in Civilopedia"]
     },
     {
         "name": "Free Information Policy",

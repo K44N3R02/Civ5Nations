@@ -110,4 +110,12 @@
         "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy",
             "Unlocked with [Information era]","Will not be displayed in Civilopedia","Unsellable"]
     },
+    {
+        "name": "Free Future Policy",
+        "uniqueTo": "Poland",
+        "cost": -1,
+        "replacementTextForUniques": " ",
+        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy",
+            "Unlocked with [Information era]","Will not be displayed in Civilopedia","Unsellable"]
+    },
 ]

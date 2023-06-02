@@ -29,18 +29,17 @@
         "requiredTech": "Bronze Working"
     }
 	 {
-        "name": "Ducal Stable", //modded
+        "name": "Ducal Stable", 
         "replaces": "Stable",
         "uniqueTo": "Poland",
         "cost": 75,
         "maintenance": 0,
         "requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
         "hurryCostModifier": 25,
-        "uniques": ["[15]% Production when constructing [Mounted] units [in this city]",
-          	"New [Mounted] units start with [15] Experience in this city",
-        	"[+1 Production, +1 Gold] from [Cattle] tiles in this city",
-        	"[+1 Production, +1 Gold] from [Horses] tiles in this city",
-        	"[+1 Production, +1 Gold] from [Sheep] tiles in this city"],
+        "uniques": ["New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
         "requiredTech": "Horseback Riding"
     },
 	{
@@ -53,69 +52,5 @@
         "hurryCostModifier": 25,
         "maintenance": 1,
         "requiredTech": "Theology"
-    },
-	{
-        "name": "Free Classical Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Unlocked with [Classical era]","Will not be displayed in Civilopedia"]
-    },
-    {
-        "name": "Free Medieval Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Unlocked with [Medieval era]","Will not be displayed in Civilopedia"]
-    },
-    {
-        "name": "Free Renaissance Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Unlocked with [Renaissance era]","Will not be displayed in Civilopedia"]
-    },
-    {
-        "name": "Free Industrial Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Unlocked with [Industrial era]","Will not be displayed in Civilopedia"]
-    },
-    {
-        "name": "Free Modern Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Unlocked with [Modern era]","Will not be displayed in Civilopedia"]
-    },
-    {
-        "name": "Free Atomic Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy","Unsellable"
-            "Unlocked with [Atomic era]","Will not be displayed in Civilopedia"]
-    },
-    {
-        "name": "Free Information Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy",
-            "Unlocked with [Information era]","Will not be displayed in Civilopedia","Unsellable"]
-    },
-    {
-        "name": "Free Future Policy",
-        "uniqueTo": "Poland",
-        "cost": -1,
-        "replacementTextForUniques": " ",
-        "uniques": ["Limited to [1] per Civilization", "Unbuildable","Free Social Policy",
-            "Unlocked with [Information era]","Will not be displayed in Civilopedia","Unsellable"]
     },
 ]

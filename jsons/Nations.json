@@ -121,7 +121,7 @@
 		"outerColor": [241,3,0],
 		"innerColor": [80,11,14],
 		"uniqueName": "Solidarity",
-		"uniqueText": ["Receive a free Social Policy when you advance to the next era"],
+		"uniqueText": "Receive a free Social Policy when you advance to the next era",
 		"uniques": ["Gain a free [Free Classical Policy] [in capital] <upon entering the [Classical era]>",
 			    "Gain a free [Free Medieval Policy] [in capital] <upon entering the [Medieval era]>",
 			    "Gain a free [Free Renaissance Policy] [in capital] <upon entering the [Renaissance era]>",

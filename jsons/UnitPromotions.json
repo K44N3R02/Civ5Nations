@@ -4,7 +4,7 @@
 		"name": "Heal Instantly",
 		"effect": "Heal this Unit by 50 HP; Doing so will consume this opportunity to choose a Promotion",
 		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine"]
-
+	},
 	{
 		"name": "Heavy Charge",
 		"uniques": ["[+25]% Strength <when attacking>"]

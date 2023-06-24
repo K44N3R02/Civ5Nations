@@ -53,4 +53,17 @@
         "maintenance": 1,
         "requiredTech": "Theology"
     },
+    {
+	"name": "IndonesiaUnique",
+	"uniqueTo": "Indonesia",
+	"cost": -1,
+	"uniques": [
+		"Unbuildable",
+		"Unsellable",
+		"Destroyed when the city is captured",
+		"Will not be displayed in Civilopedia",
+		"[+1 Food, +1 Gold] <in all cities> <during the [Ancient Era]>",
+		"[+0.5 Food, +0.5 Gold] <in all cities> <during the [Classical Era]>",
+	],
+    },
 ]

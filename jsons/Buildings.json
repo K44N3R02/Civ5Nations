@@ -63,7 +63,7 @@
 		"Destroyed when the city is captured",
 		"Will not be displayed in Civilopedia",
 		"[+1 Food, +1 Gold] [in all cities] <during the [Ancient era]>",
-		"[+0.5 Food, +0.5 Gold] [in all cities] <during the [Classical era]>",
+		"[+1 Food, +1 Gold] [in all cities] <during the [Classical era]>",
 	],
     },
 ]

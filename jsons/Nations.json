@@ -68,7 +68,7 @@
 		"innerColor": [167,52,31],
 		"uniqueName": "Spice Islanders",
 		"uniqueText": "Each city founded or captured provides +1 Food and +1 Gold. -50% of these bouses when you advance to new era.",
-		"uniques": "Gain a free [IndonesiaUnique] [in all cities]",
+		"uniques": ["Gain a free [IndonesiaUnique] [in all cities]"],
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
 			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",

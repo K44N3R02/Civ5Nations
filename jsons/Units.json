@@ -189,7 +189,7 @@
 	},
 	{
 		"name": "Impi", //modded
-		"replaces": "Pikeman",
+		"replaces": "Warrior",
 		"uniqueTo": "Indonesia",
 		"unitType": "Sword",
 		"movement": 2,

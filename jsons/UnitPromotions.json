@@ -72,7 +72,16 @@
 		"effect": "-10% combat strength for adjacent enemy units"
 	},
 	{
-		"name": "Spear Throw", // only for Impi and subsequent upgrades
-		"effect": "1 additional attack per turn",
+		"name": "Impi ability", // only for Impi and subsequent upgrades
+		"uniques": ["Double movement in [Jungle]",
+		            "Double movement in [Forest]",
+		            "[+1] movement in [Jungle] tiles",
+		            "Invisible to non-adjacent units <in [Jungle] tiles>",
+		            "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+	},
+	{
+	        "name": "Atlatl ability",
+		"uniques": ["[+1] movement",
+                            "Can move after attacking"],
 	},
 ]

@@ -52,7 +52,7 @@
 		"name": "Indonesia",
 		"leaderName": "Gajah Mada",
 		"adjective": ["Indonesian"],
-		"startBias": ["Coast"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Honour be with you, oh great hero Gajah Mada, prime minister of Majapahit and uniter of the Indonesian archipelago. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Serving your queen and empire with loyalty, you not only strive to fulfill your oath and conquered any who stood in your path, but you succeeded in capturing what was then the entirety of the known archipelago, the first to unite what is today modern Indonesia.",
@@ -67,10 +67,9 @@
 		"outerColor": [101,211,220],
 		"innerColor": [167,52,31],
 		"uniqueName": "Spice Islanders",
-		"uniqueText": "Each city founded or captured provides +1 Food and +1 Gold to all cities. -50% of these bouses when you advance to new era.",
-		"uniques": ["Gain a free [IndonesiaUnique] [in all cities]",
-			    "[-50]% [Food] from every [IndonesiaUnique] <during the [Classical era]>",
-			    "[-50]% [Gold] from every [IndonesiaUnique] <during the [Classical era]>"
+		"uniques": ["[100]% Yield from every [Jungle]",
+			    "[50]% Yield from every [Forest]",
+			    "[50]% Yield from every [Great Improvement]"
 		           ],
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
@@ -79,7 +78,7 @@
 			"Yogyakarta","Bima","Sorong"]
 	},
 	{
-		"name": "Morocco",
+		"name": "Don't Use 1",
 		"leaderName": "Ahmad al-Mansur",
 		"adjective": ["Moroccan"],
 		"startBias": ["Desert"],
@@ -219,7 +218,7 @@
 		]
 	},
 	{
-		"name": "Zulu",
+		"name": "Don't Use 2",
 		"leaderName": "Shaka",
 		"adjective": ["Zulu"],
 		"startBias": ["Avoid [Jungle]"],

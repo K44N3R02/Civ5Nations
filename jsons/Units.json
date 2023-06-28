@@ -64,7 +64,7 @@
 		"name": "Berber Cavalry", //modded
 		"replaces": "Cavalry",
 		"unitType": "Mounted",
-		"uniqueTo": "Morocco",
+		"uniqueTo": "Don't Use 1",
 		"movement": 4,
 		"strength": 34,
 		"cost": 225,
@@ -190,16 +190,15 @@
 	{
 		"name": "Impi", //modded
 		"replaces": "Pikeman",
-		"uniqueTo": "Zulu",
+		"uniqueTo": "Indonesia",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
 		"cost": 90,
-		"requiredTech": "Civil Service",
-		"uniques": ["Bonus vs Mounted 50%"],
+		"requiredTech": "Agriculture",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"promotions": ["Spear Throw"],
-		"attackSound": "metalhit"
+		"promotions": ["Impi ability"],
+		"attackSound": "nonmetalhit"
 	},
-]
+] 
